@@ -5,8 +5,7 @@ A static front‑end clone of Amazon’s homepage built with HTML and CSS. Repli
 
 ## Demo
 
-> **Live Preview**: *(If hosted on GitHub Pages or similar, insert link here.)*  
-> Otherwise, open `index.html` locally in your browser.
+> Open `index.html` locally in your browser.
 
 ---
 
